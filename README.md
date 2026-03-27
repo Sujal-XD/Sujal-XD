@@ -71,36 +71,3 @@
 </picture>
 
 ###
-
-<div align="center">
-
-<h3>💬 Random Cybersecurity Quote</h3>
-
-<p id="cyber-quote" style="font-style: italic; color: #00ffcc;"></p>
-
-</div>
-
-<script>
-const quotes = [
-  "There are only two types of companies: those that have been hacked and those that will be. – Robert Mueller",
-  "Security is not a product, but a process. – Bruce Schneier",
-  "Hackers don’t break in, they log in.",
-  "The quieter you become, the more you are able to hear. – Kali Linux mindset 😏",
-  "If you think technology can solve your security problems, then you don’t understand the problems.",
-  "Amateurs hack systems, professionals hack people.",
-  "Passwords are like underwear: don’t share them, change them often.",
-  "Cybersecurity is much more than a matter of IT.",
-  "There is no patch for human stupidity.",
-  "First rule of hacking: Don’t get caught 😉",
-  "I don’t always test my code, but when I do, I do it in production 😈",
-  "Your system is only as strong as your weakest password.",
-  "Hack the system… but legally.",
-  "In cybersecurity, paranoia is just good thinking.",
-  "It’s not a bug, it’s an undocumented feature."
-];
-
-const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-document.getElementById("cyber-quote").innerText = randomQuote;
-</script>
-
-###
