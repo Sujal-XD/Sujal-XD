@@ -1,21 +1,106 @@
-# 💫 About Me:
-🛡️ About Me<br><br>🔭 I’m currently working on Recora (a cybersecurity-focused platform) and a Blockchain-based Chain of Custody (CoC) system for digital evidence<br><br>🤝 I’m looking to collaborate on cybersecurity tools, blockchain security projects, and AI-driven security solutions<br><br>🛠️ I’m looking for help with advanced threat detection, secure system design, and blockchain integration in cybersecurity<br><br>🌱 I’m currently learning Cyber Forensics, Network Security, Ethical Hacking, and AI in Cybersecurity<br><br>💻 Cyber Tools I use: Wireshark, Nmap, Metasploit, Burp Suite, Kali Linux, Autopsy<br><br>💬 Ask me about cybersecurity basics, ethical hacking, digital forensics, and building security-focused apps<br><br>⚡ Fun fact: I enjoy breaking systems (ethically) to learn how to secure them better 🔐
+<h3 align="left">Hi 👋! My name is Sujal and,<br><br>🔭 I’m currently working on Recora (a cybersecurity-focused platform) and a Blockchain-based Chain of Custody (CoC) system for digital evidence<br><br>🤝 I’m looking to collaborate on cybersecurity tools, blockchain security projects, and AI-driven security solutions<br><br>🛠️ I’m looking for help with advanced threat detection, secure system design, and blockchain integration in cybersecurity<br><br>🌱 I’m currently learning Cyber Forensics, Network Security, Ethical Hacking, and AI in Cybersecurity<br><br>💻 Cyber Tools I use: Wireshark, Nmap, Metasploit, Burp Suite, Kali Linux, Autopsy<br><br>💬 Ask me about cybersecurity basics, ethical hacking, digital forensics, and building security-focused apps<br><br>⚡ Fun fact: I enjoy breaking systems (ethically) to learn how to secure them better 🔐</h3>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujalkalal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujalkalal16@gmail.com) 
+<img align="right" height="161" src="https://i.imgflip.com/7f3cfo.jpg"  />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sujal-XD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sujal-XD&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-XD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="42" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="42" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="42" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="42" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="42" alt="r logo"  />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Sujal-XD&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="left">
+  <a href="https://www.linkedin.com/in/sujalkalal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="sujalkalal16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/idksujal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal-XD/Sujal-XD/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujal-XD/Sujal-XD/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sujal-XD/Sujal-XD/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+
+<h3>💬 Random Cybersecurity Quote</h3>
+
+<p id="cyber-quote" style="font-style: italic; color: #00ffcc;"></p>
+
+</div>
+
+<script>
+const quotes = [
+  "There are only two types of companies: those that have been hacked and those that will be. – Robert Mueller",
+  "Security is not a product, but a process. – Bruce Schneier",
+  "Hackers don’t break in, they log in.",
+  "The quieter you become, the more you are able to hear. – Kali Linux mindset 😏",
+  "If you think technology can solve your security problems, then you don’t understand the problems.",
+  "Amateurs hack systems, professionals hack people.",
+  "Passwords are like underwear: don’t share them, change them often.",
+  "Cybersecurity is much more than a matter of IT.",
+  "There is no patch for human stupidity.",
+  "First rule of hacking: Don’t get caught 😉",
+  "I don’t always test my code, but when I do, I do it in production 😈",
+  "Your system is only as strong as your weakest password.",
+  "Hack the system… but legally.",
+  "In cybersecurity, paranoia is just good thinking.",
+  "It’s not a bug, it’s an undocumented feature."
+];
+
+const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+document.getElementById("cyber-quote").innerText = randomQuote;
+</script>
+
+###
